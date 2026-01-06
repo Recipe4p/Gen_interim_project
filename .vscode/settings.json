@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": ".\\.venv\\Scripts\\python.exe",
+    "python.terminal.activateEnvironment": true,
+    "robotcode.debug.attachPython": true,
+    "debugpy.debugJustMyCode": false,
+    "python.venvPath": "${workspaceFolder}/.venv",
+    "explorer.sortOrder": "modified",
+    "python.autoComplete.extraPaths": [
+
+    ]
+}
