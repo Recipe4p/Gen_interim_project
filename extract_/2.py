@@ -2,7 +2,7 @@ import pandas as pd
 print("hello")
 print("world")
 
-nono   
+hu="nono"  
 
 
 print("world")
