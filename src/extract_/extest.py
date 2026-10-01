@@ -5,7 +5,7 @@ import httpx
 import time
 
 # Replace with your actual API key
-API_KEY =
+API_KEY = 
 
 url = 'https://datamall2.mytransport.sg/ltaodataservice/EVChargingPoints'
 
